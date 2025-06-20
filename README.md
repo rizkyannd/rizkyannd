@@ -7,12 +7,11 @@
 
 
 #### 📫 Reach me at:
-![https://www.linkedin.com/in/rizky-ananda-b1bb07342/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) ![https://www.instagram.com/kyrizky.a/](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rizky-ananda-b1bb07342/) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kyrizky.a/)
 
-
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=USERNAME&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 #### 📊 GitHub Stats:
-![Rizky Ananda's Github stats](https://github-readme-stats.vercel.app/api?username=rizkyannd&show_icons=true&theme=radical)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=radical&layout=compact)
+![Rizky Ananda's Github stats](https://github-readme-stats.vercel.app/api?username=rizkyannd&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rizkyannd&theme=radical&layout=compact)
+
