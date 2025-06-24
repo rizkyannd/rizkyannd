@@ -1,5 +1,5 @@
 
-![Rizky ananda](img/HeaderGithub-1.png)
+![Rizky ananda](img/Figma%20basics%20(1).png)
 
 ![Visitor Badge](https://komarev.com/ghpvc/?username=rizkyannd&style=for-the-badge)
 
@@ -23,7 +23,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rizkyannd&theme=radical&layout=compact)
 
 ---
-## Contribution Graph
+## 📈 Contribution Graph
 [![Rizky's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rizkyannd&theme=radical)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
