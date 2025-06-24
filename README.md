@@ -13,7 +13,7 @@
 ---
 <h2 align="center">🧑🏻‍💻 Currently learning</h2>
 
-<img align="right" height="220" width="340" alt="GIF" src="https://gifdb.com/images/high/animaniacs-system-engineer-7gkf7qabxm62lj47.webp"/>
+<img align="right" height="140" width="340" alt="GIF" src="https://gifdb.com/images/high/animaniacs-system-engineer-7gkf7qabxm62lj47.webp"/>
 
 
 - Python Programming (advanced scripting and exploit development)
