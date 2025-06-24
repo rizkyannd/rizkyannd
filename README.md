@@ -30,7 +30,9 @@
 
 ---
 ## 📈 GitHub Stats:
-![Rizky Ananda's Github stats](https://github-readme-stats.vercel.app/api?username=rizkyannd&show_icons=true&theme=blue-green)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rizkyannd&theme=blue-green&layout=compact)
+## 📊 GitHub Stats:
+
+![Rizky Ananda's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rizkyannd&show_icons=true&bg_color=000000&title_color=00bfff&text_color=ffffff&icon_color=00bfff)![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rizkyannd&layout=compact&bg_color=000000&title_color=00bfff&text_color=ffffff)
 
 
 [![Rizky's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rizkyannd&bg_color=000000&color=00bfff&line=00bfff&point=00bfff&area=true&hide_border=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
