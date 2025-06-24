@@ -30,7 +30,6 @@
 
 ---
 ## 📈 GitHub Stats:
-## 📊 GitHub Stats:
 
 ![Rizky Ananda's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rizkyannd&show_icons=true&bg_color=000000&title_color=00bfff&text_color=ffffff&icon_color=00bfff)![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rizkyannd&layout=compact&bg_color=000000&title_color=00bfff&text_color=ffffff)
 
@@ -39,6 +38,6 @@
 
 
 ---
-## 🏆 GitHub Trophies
+## 🏆 GitHub Trophies:
 [![trophy](https://github-profile-trophy.vercel.app/?username=rizkyannd&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
