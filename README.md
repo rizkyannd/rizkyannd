@@ -42,4 +42,5 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=rizkyannd&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
 
+---
 ![Logo Tools](img/Untitled%20(2).png)
