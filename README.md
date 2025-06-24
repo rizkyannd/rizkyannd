@@ -1,5 +1,5 @@
 
-![Rizky ananda](img/Figma%20basics%20(1).png)
+![Rizky ananda](img/Figma_basics%20(1).png)
 
 ![Visitor Badge](https://komarev.com/ghpvc/?username=rizkyannd&style=for-the-badge)
 
@@ -11,19 +11,18 @@
 
 
 ---
+<h2 align="center">🧑🏻‍💻 Currently learning</h2>
 
-<img align="right" height="260" width="340" alt="GIF" src="https://gifdb.com/images/high/animaniacs-system-engineer-7gkf7qabxm62lj47.webp"/>
+<img align="right" height="220" width="340" alt="GIF" src="https://gifdb.com/images/high/animaniacs-system-engineer-7gkf7qabxm62lj47.webp"/>
 
 
-## 🚧 Currently Learning:
+- Python Programming (advanced scripting and exploit development)
+- Malware Analysis & Backdoor Research (for ethical purposes)
+- Exploit Development (buffer overflow, privilege escalation)
+- Ethical Hacking & Penetration Testing (network, web, system)
+- Bash / Shell Scripting (automation, enumeration, post-exploitation)
 
-- Python Programming (aiming for expert-level proficiency)
-- Malware Analysis & Custom Backdoor Development (for ethical research)
 
-- Basic Exploit Development (buffer overflow, privilege escalation)
-- Ethical Hacking & Penetration Testing (network, web, and system security)
-
-.
 
 ---
 ## 📫 Reach me at:
