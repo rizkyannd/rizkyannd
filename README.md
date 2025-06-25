@@ -1,5 +1,5 @@
 
-![Rizky ananda](img/Figma_basics%20(2).png)
+![Rizky ananda](img/Figma%20basics%20(1)%20(2).png)
 
 ![Visitor Badge](https://komarev.com/ghpvc/?username=rizkyannd&style=for-the-badge)
 
@@ -43,4 +43,4 @@
 
 
 ---
-![Logo Tools](img/Untitled%20(2).png)
+![Logo Tools](img/Untitled%20(3).png)
