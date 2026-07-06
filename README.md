@@ -1,15 +1,13 @@
 <div align="center">
 
 <!-- ANIMATED HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d9ff,100:0d1117&height=200&section=header&text=Rizky%20Ananda&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d9ff,100:0d1117&height=180&section=header&text=Rizky%20Ananda&fontSize=30&fontColor=ffffff&animation=fadeIn&fontAlignY=28&desc=Informatics%20Student%20%7C%20Aspiring%20Cloud%20Engineer&descAlignY=45&descSize=18" width="100%" />
 
 <!-- TYPING ANIMATION -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Informatics+Student+%7C+Future+Cloud+Engineer;Documenting+My+Sysadmin+Journey%2C+One+Lab+at+a+Time;Ubuntu+Server+%7C+VirtualBox+%7C+AWS)](https://git.io/typing-svg)
 
 </div>
 
-
-![Rizky ananda](img/Figma%20basics%20(1)%20(2).png)
 
 ![Visitor Badge](https://komarev.com/ghpvc/?username=rizkyannd&style=for-the-badge)
 
@@ -28,7 +26,7 @@
 ---
 <h2 align="center">🧑🏻‍💻 Currently learning</h2>
 
-<img align="right" height="120" width="280" alt="GIF" src="https://gifdb.com/images/high/animaniacs-system-engineer-7gkf7qabxm62lj47.webp"/>
+
 
 
 - Python Programming (advanced scripting and exploit development)
