@@ -26,33 +26,16 @@
 ---
 <h2 align="center">🧑🏻‍💻 Currently learning</h2>
 
-
-
-
-- Python Programming (advanced scripting and exploit development)
-- Malware Analysis & Backdoor Research (for ethical purposes)
-- Exploit Development (buffer overflow, privilege escalation)
-- Ethical Hacking & Penetration Testing (network, web, system)
-- Bash / Shell Scripting (automation, enumeration, post-exploitation)
-
+- Linux System Administration (Ubuntu Server — networking, security hardening, automation)
+- Documenting & building a sysadmin portfolio on GitHub
+- Bash / Shell Scripting (automation, monitoring, backup scripts)
+- Networking fundamentals (TCP/IP, static IP, firewall, SSH hardening)
 
 
 ---
 ## 📫 Reach me at :
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rizky-ananda-b1bb07342/) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kyrizky.a/)
 
----
-## 📈 GitHub Stats :
-
-![Rizky Ananda's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rizkyannd&show_icons=true&bg_color=000000&title_color=00bfff&text_color=ffffff&icon_color=00bfff) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rizkyannd&layout=compact&bg_color=000000&title_color=00bfff&text_color=ffffff)
-
-
-[![Rizky's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rizkyannd&bg_color=000000&color=00bfff&line=00bfff&point=00bfff&area=true&hide_border=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
-
-
----
-## 🏆 GitHub Trophies :
-[![trophy](https://github-profile-trophy.vercel.app/?username=rizkyannd&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 ---
