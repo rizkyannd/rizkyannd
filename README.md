@@ -24,12 +24,6 @@
 
 
 ---
-<h2 align="center">🌱 Learning & Exploring</h2>
-
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) ![Laragon](https://img.shields.io/badge/Laragon-0E83CD?style=for-the-badge&logo=Laragon&logoColor=white) ![Metasploit](https://img.shields.io/badge/metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white) ![BurpSuite](https://img.shields.io/badge/burpsuite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white) ![NessusEssentials](https://img.shields.io/badge/Nessus_Essentials-0067FF?style=for-the-badge) ![JohnTheRipper](https://img.shields.io/badge/John_the_Ripper-FFD700?style=for-the-badge)
-
-
----
 <h2 align="center">📫 Reach me at</h2>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rizky-ananda-b1bb07342/) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kyrizky.a/)
