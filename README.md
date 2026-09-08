@@ -29,7 +29,7 @@ Informatics student focused on **Linux System Administration**, **Network Harden
 
 ### 🚀 Featured Project
 
-**[Ubuntu Server Sysadmin Roadmap](https://github.com/rizkyannd/YOUR-REPO-NAME)**
+**[Ubuntu Server Sysadmin Roadmap](https://github.com/rizkyannd/ubuntu-server-sysadmin-roadmap )**
 *A 12-step, hands-on Ubuntu Server administration project — from clean install to production-style hardening — fully documented with troubleshooting logs and diagrams.*
 
 - 🔒 **Security & Hardening:** Configured UFW firewall rules, SSH hardening, and user privilege control.
